@@ -17,7 +17,5 @@ public class TowerOfHanoiProblem {
 			System.out.println("Move 1 disk from " + source + " to " + dest + " using " + aux + ".");
 			TOH(aux, source, dest, noDisk - 1);
 		}
-
 	}
-
 }
