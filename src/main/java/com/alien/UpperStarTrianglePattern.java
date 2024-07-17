@@ -13,7 +13,6 @@ package com.alien;
  *********
 **********
 
-
 */
 
 public class UpperStarTrianglePattern {
